@@ -1,0 +1,81 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_vm0_name": {
+            "value": null
+        },
+        "virtualMachines_vm1_name": {
+            "value": null
+        },
+        "virtualNetworks_VNET_name": {
+            "value": null
+        },
+        "virtualMachines_vmsql_name": {
+            "value": null
+        },
+        "networkInterfaces_vm0_name": {
+            "value": null
+        },
+        "networkInterfaces_vm1_name": {
+            "value": null
+        },
+        "networkInterfaces_vmsql_name": {
+            "value": null
+        },
+        "availabilitySets_myavlset_name": {
+            "value": null
+        },
+        "publicIPAddresses_vmsqlIp_name": {
+            "value": null
+        },
+        "loadBalancers_loadBalancer_name": {
+            "value": null
+        },
+        "publicIPAddresses_publicIp_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vmsql_name": {
+            "value": null
+        },
+        "storageAccounts_diagz2af4btfaut4m_name": {
+            "value": null
+        },
+        "subnets_Subnet_name": {
+            "value": null
+        },
+        "disks_vmsql_disk2_77834c6dcffc4150b6897f9c5cc39c8f_name": {
+            "value": null
+        },
+        "disks_vmsql_disk3_cccd80bbb5474ae5888b666394a1be83_name": {
+            "value": null
+        },
+        "disks_vm0_OsDisk_1_56fb8acd5b674dd4869b01b052864081_name": {
+            "value": null
+        },
+        "disks_vm1_OsDisk_1_47eb64da07764b14b72314ec37716719_name": {
+            "value": null
+        },
+        "disks_vmsql_OsDisk_1_a5f756161aca4057ae9d80d0edeed359_name": {
+            "value": null
+        },
+        "securityRules_default_allow_rdp_name": {
+            "value": null
+        },
+        "loadBalancers_loadBalancer_id": {
+            "value": null
+        },
+        "loadBalancers_loadBalancer_id_1": {
+            "value": null
+        },
+        "loadBalancers_loadBalancer_id_2": {
+            "value": null
+        },
+        "loadBalancers_loadBalancer_id_3": {
+            "value": null
+        },
+        "loadBalancers_loadBalancer_id_4": {
+            "value": null
+        }
+    }
+}
